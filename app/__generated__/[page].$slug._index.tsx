@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "eb288b69-93b6-4f30-87d8-8fc4471bde1e";
 
-      export const lastPublished = "2025-05-10T14:09:23.030Z";
+      export const lastPublished = "2025-05-10T15:01:55.272Z";
 
       export const siteName = "たいくんの生活";
 
@@ -215,7 +215,7 @@ data-ws-index="0"
 className={`w-menu-item`}>
 <NavigationMenuTrigger>
 <Button
-className={`w-button cdq29j4 c1nrl0mm c1uczmal c1t8yh50 cemtmji cp06sg7 c18vxezs c1u6k7oj cz9jktr c1hjchh6 cgt0251 cd4zzh3 cmz7znk c18xfrfr ccpbbov c4oa98r clun22x c11v1l1o c1sy5cbg ctibe6j cq98dcv c1nljn1v cj7fjzz c10hsz cjft9ro c3is16k ct5v9tl c1bk7ok4 c14apeck c3xa0es cuzj5pe c155t0lq co7no61 csxs9a9 cr7n75u ckr4avh c17lpz9r c1l2rvg0 c1ta4tnx cxit7c7 cwnqwob`}>
+className={`w-button cdq29j4 c1nrl0mm c1uczmal c1t8yh50 cemtmji cp06sg7 c18vxezs c1u6k7oj cz9jktr c1hjchh6 cgt0251 cd4zzh3 cmz7znk c18xfrfr ccpbbov c4oa98r clun22x c11v1l1o c1sy5cbg ctibe6j cq98dcv c1nljn1v cj7fjzz c10hsz cjft9ro c3is16k ct5v9tl c1bk7ok4 c14apeck c3xa0es cuzj5pe c155t0lq co7no61 csxs9a9 cr7n75u ckr4avh c17lpz9r c1l2rvg0 c1ta4tnx cxit7c7 c1dfh75v`}>
 <Box
 className={`w-box c1d3h5bc c19dka4a chpom5m`}>
 <HtmlEmbed
