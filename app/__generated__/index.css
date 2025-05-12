@@ -1,9 +1,4 @@
-@font-face {
-  font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url("/assets/Inter-VariableFont_opsz_wght_HOo21NIbqKC0RKQh4mucq.ttf") format("truetype");
-}
-@font-face {
-  font-family: "Source Han Sans JP VF"; font-style: normal; font-weight: 250 900; font-display: swap; src: url("/assets/SourceHanSansJP-VF.ttf_6pYUVA7f__C2UTbutLl5c.woff2") format("woff2");
-}@layer presets {
+@layer presets {
   :root {
     display: grid;
     min-height: 100%;
@@ -213,7 +208,7 @@
 }
 @media all {
   :root {
-    font-family: Inter, "Source Han Sans JP VF";
+    font-family: Inter, "Noto Sans JP";
     color-scheme: light dark
   }
   .ckw650q {
@@ -384,9 +379,6 @@
   }
   .ce9x8e9 {
     display: -webkit-box
-  }
-  .cyr5ovu {
-    font-family: Inter, "Source Han Sans JP VF"
   }
   .c14njgcc {
     text-decoration-line: none

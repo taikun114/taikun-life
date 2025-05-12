@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "eb288b69-93b6-4f30-87d8-8fc4471bde1e";
 
-      export const lastPublished = "2025-05-12T11:33:16.283Z";
+      export const lastPublished = "2025-05-12T13:50:44.989Z";
 
       export const siteName = "たいくんの生活";
 
@@ -22,7 +22,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
-        ["Inter-VariableFont_opsz_wght_HOo21NIbqKC0RKQh4mucq.ttf","SourceHanSansJP-VF.ttf_6pYUVA7f__C2UTbutLl5c.woff2"]
+        []
 
       export const pageBackgroundImageAssets: string[] =
         []
@@ -331,7 +331,7 @@ loading={"eager"}
 className={`w-image ckw650q c1m5x6dt chq41zu c1v5myxa c1ysgjff c1q56g4b`} />
 }
 <Heading
-className={`w-heading c227hpe c16uhwia c1y6b4hq c1wsxezy c9ll3mf cyr5ovu cwhi29c c18fmqw2 c1bzr7ct`}>
+className={`w-heading c227hpe c16uhwia c1y6b4hq c1wsxezy c9ll3mf cwhi29c c18fmqw2 c1bzr7ct`}>
 {CMS?.data?.data?.page?.title || "コンテンツが見つかりませんでした（404 Not Found）"}
 </Heading>
 <Box

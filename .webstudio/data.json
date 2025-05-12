@@ -1,16 +1,16 @@
 {
   "build": {
-    "id": "c561030b-2837-4fb3-8289-8a5fd90628e6",
+    "id": "b8b34729-575b-4ea9-b873-aa582b60f8a7",
     "projectId": "eb288b69-93b6-4f30-87d8-8fc4471bde1e",
-    "version": 416,
-    "createdAt": "2025-05-12T11:33:16.283+00:00",
-    "updatedAt": "2025-05-12T11:33:16.283+00:00",
+    "version": 433,
+    "createdAt": "2025-05-12T13:50:44.989+00:00",
+    "updatedAt": "2025-05-12T13:50:44.989+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの生活",
         "contactEmail": "contact.taikun@gmail.com",
         "faviconAssetId": "ff31de3b2c2c0cdd40fbd7f79d7c8a265d7a944bd885b74b0407af47c53a8b7e",
-        "code": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-W4MSD8641S\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-W4MSD8641S');\n</script>\n\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544\"\n     crossorigin=\"anonymous\"></script>"
+        "code": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-W4MSD8641S\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-W4MSD8641S');\n</script>\n\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544\"\n     crossorigin=\"anonymous\"></script>\n\n<style>\n@import url('https://api.fonts.coollabs.io/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>"
       },
       "compiler": {
         "atomicStyles": true
@@ -300,7 +300,7 @@
             "type": "fontFamily",
             "value": [
               "Inter",
-              "Source Han Sans JP VF"
+              "Noto Sans JP"
             ]
           }
         }
@@ -3892,96 +3892,6 @@
         }
       ],
       [
-        "XXWIx-IieXfjfoK7wj2HJ:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "XXWIx-IieXfjfoK7wj2HJ",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
-          }
-        }
-      ],
-      [
-        "_vM_UBQifdWrIHrLSE5CD:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "_vM_UBQifdWrIHrLSE5CD",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
-          }
-        }
-      ],
-      [
-        "ecmvLV-7a3i7bNP7jb5jj:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "ecmvLV-7a3i7bNP7jb5jj",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
-          }
-        }
-      ],
-      [
-        "hsdTjbEPscKP-pXgjnBEJ:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "hsdTjbEPscKP-pXgjnBEJ",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
-          }
-        }
-      ],
-      [
-        "eF9LgRQ9jamuwdNhkGMdg:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "eF9LgRQ9jamuwdNhkGMdg",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
-          }
-        }
-      ],
-      [
-        "iTMdug-8gDfdHI6ll4Kor:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "iTMdug-8gDfdHI6ll4Kor",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
-          }
-        }
-      ],
-      [
         "CKErqj_8PE1tqeexT2iTb:7hPMMapQ_YKRAmEWw_M-S:backgroundColor::hover",
         {
           "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
@@ -6015,21 +5925,6 @@
           "value": {
             "type": "keyword",
             "value": "wrap"
-          }
-        }
-      ],
-      [
-        "0ilqeGRdSxpu2Tec2svqk:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "0ilqeGRdSxpu2Tec2svqk",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
           }
         }
       ],
@@ -11246,21 +11141,6 @@
           "value": {
             "type": "keyword",
             "value": "wrap"
-          }
-        }
-      ],
-      [
-        "yoYpeFdDZcN3LgdLBtiS9:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "styleSourceId": "yoYpeFdDZcN3LgdLBtiS9",
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
           }
         }
       ],
@@ -38195,33 +38075,6 @@
   ],
   "assets": [
     {
-      "id": "0be2399ea925f1f83ff974764761da9860ec50742ed29a5d4c1ffd0c5c7ac3a8",
-      "name": "Inter-VariableFont_opsz_wght_HOo21NIbqKC0RKQh4mucq.ttf",
-      "description": null,
-      "projectId": "eb288b69-93b6-4f30-87d8-8fc4471bde1e",
-      "size": 874708,
-      "type": "font",
-      "createdAt": "2025-04-30T08:31:45.419+00:00",
-      "format": "ttf",
-      "meta": {
-        "family": "Inter",
-        "variationAxes": {
-          "opsz": {
-            "name": "Optical size",
-            "min": 14,
-            "default": 14,
-            "max": 32
-          },
-          "wght": {
-            "name": "Weight",
-            "min": 100,
-            "default": 400,
-            "max": 900
-          }
-        }
-      }
-    },
-    {
       "id": "19fe49933f9147c016a755c297af6bf7aeff0a6d719aa963060758f1f86f663b",
       "name": "たいくんの生活_CsF_YNPTRQ0mtDuxZTnN3.webp",
       "description": null,
@@ -38247,27 +38100,6 @@
       "meta": {
         "width": 1920,
         "height": 1080
-      }
-    },
-    {
-      "id": "83f1fb71af1de1750f61e79ead12179fddab2dc387f4bdac8b4852f8e7ed7354",
-      "name": "SourceHanSansJP-VF.ttf_6pYUVA7f__C2UTbutLl5c.woff2",
-      "description": null,
-      "projectId": "eb288b69-93b6-4f30-87d8-8fc4471bde1e",
-      "size": 4354296,
-      "type": "font",
-      "createdAt": "2025-04-30T08:31:45.523+00:00",
-      "format": "woff2",
-      "meta": {
-        "family": "Source Han Sans JP VF",
-        "variationAxes": {
-          "wght": {
-            "name": "Weight",
-            "min": 250,
-            "default": 250,
-            "max": 900
-          }
-        }
       }
     },
     {

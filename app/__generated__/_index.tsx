@@ -10,7 +10,7 @@ import { Slot as Slot, Image as Image, Fragment as Fragment_1, Box as Box, Headi
 
       export const projectId = "eb288b69-93b6-4f30-87d8-8fc4471bde1e";
 
-      export const lastPublished = "2025-05-12T11:33:16.283Z";
+      export const lastPublished = "2025-05-12T13:50:44.989Z";
 
       export const siteName = "たいくんの生活";
 
@@ -21,7 +21,7 @@ import { Slot as Slot, Image as Image, Fragment as Fragment_1, Box as Box, Headi
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
-        ["Inter-VariableFont_opsz_wght_HOo21NIbqKC0RKQh4mucq.ttf","SourceHanSansJP-VF.ttf_6pYUVA7f__C2UTbutLl5c.woff2"]
+        []
 
       export const pageBackgroundImageAssets: string[] =
         []
@@ -45,14 +45,14 @@ import { Slot as Slot, Image as Image, Fragment as Fragment_1, Box as Box, Headi
             
 
             export const CustomCode = () => {
-              return (<><Script async src={"https://www.googletagmanager.com/gtag/js?id=G-W4MSD8641S"}></Script><Script>{"\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-W4MSD8641S');\n"}</Script>{"\n\n"}<Script async src={"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544"} crossorigin={"anonymous"}></Script></>);
+              return (<><Script async src={"https://www.googletagmanager.com/gtag/js?id=G-W4MSD8641S"}></Script><Script>{"\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-W4MSD8641S');\n"}</Script>{"\n\n"}<Script async src={"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544"} crossorigin={"anonymous"}></Script>{"\n\n"}<Style>{"\n@import url('https://api.fonts.coollabs.io/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n"}</Style></>);
             }
           
 
       const Page = (_props: { system: any; }) => {
 let _ = useResource("__1")
 return <Body
-className={`w-body cyr5ovu`}>
+className={`w-body`}>
 <Slot>
 <Fragment_1>
 <Image
@@ -161,12 +161,12 @@ className={`w-image c9ztfc4 cvpjo14 ckw650q cpbvj9u c1ysgjff`} />
 <Box
 className={`w-box clb7ee7 cckrrlb c1kwnyvg`}>
 <Heading
-className={`w-heading c1xyw2bj cffkjh0 c11z3i3x c9ll3mf cinzvyd cmendya c1do09oa c1ho1hsm ce9x8e9 cyr5ovu`}>
+className={`w-heading c1xyw2bj cffkjh0 c11z3i3x c9ll3mf cinzvyd cmendya c1do09oa c1ho1hsm ce9x8e9`}>
 {collectionItem?.node?.title}
 </Heading>
 <HtmlEmbed
 code={collectionItem?.node?.excerpt}
-className={`w-html-embed c9ll3mf cinzvyd c1u7in6p c1do09oa c1ho1hsm ce9x8e9 c1i9877x cfjs3rk cy61qk1 c30d1di cyr5ovu`}>
+className={`w-html-embed c9ll3mf cinzvyd c1u7in6p c1do09oa c1ho1hsm ce9x8e9 c1i9877x cfjs3rk cy61qk1 c30d1di`}>
 </HtmlEmbed>
 <Box
 className={`w-box c16u96pk cxvivdm cmqkj62 ct6b9qv`}>
@@ -184,7 +184,7 @@ country={"JP"}
 dateStyle={"short"}
 timeStyle={"none"}
 dateTime={collectionItem?.node?.date}
-className={`w-time cb1oezn c1mjo49n cyr5ovu`} />
+className={`w-time cb1oezn c1mjo49n`} />
 </Box>
 <Box
 className={`w-box c16u96pk c1nrl0mm cv98wn5 cafs8o8 c16tp3ap c17iwvim cqs2xd4 ckhpsmk c1yh0sse c1kyowkr c1hjchh6 cgt0251 cd4zzh3 cmz7znk`}>
@@ -200,7 +200,7 @@ language={"ja"}
 country={"JP"}
 dateStyle={"short"}
 timeStyle={"none"}
-className={`w-time cb1oezn c1mjo49n cyr5ovu`} />
+className={`w-time cb1oezn c1mjo49n`} />
 </Box>
 </Box>
 </Box>
