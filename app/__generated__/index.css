@@ -50,6 +50,14 @@
     border-left-width: 1px;
     outline-width: 1px
   }
+  footer.w-box {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
   header.w-box {
     box-sizing: border-box;
     border-top-width: 1px;
@@ -444,8 +452,8 @@
   .c16uhwia {
     margin-top: 2rem
   }
-  .cfprw0w {
-    margin-bottom: 4rem
+  .c1kdz7t6 {
+    margin-bottom: 2rem
   }
   .cj7fjzz {
     padding-top: 0.5rem
@@ -461,9 +469,6 @@
   }
   .cxvivdm {
     column-gap: 0.5rem
-  }
-  .c1t8yh50 {
-    background-color: rgba(0, 175, 0, 1)
   }
   .ckfbvdv {
     border-top-left-radius: 16px
@@ -494,6 +499,9 @@
   }
   .c1nljn1v {
     transition-behavior: normal
+  }
+  .c1t8yh50 {
+    background-color: rgba(0, 175, 0, 1)
   }
   .c1dfh75v:hover {
     background-color: rgba(0, 150, 0, 1)
@@ -603,14 +611,14 @@
   .c1it51w1 {
     box-shadow: 0px 0px 32px rgba(0, 0, 0, 0.2)
   }
+  .cfprw0w {
+    margin-bottom: 4rem
+  }
   .c1v5myxa {
     max-height: 600px
   }
   .c1q56g4b {
     height: fit-content
-  }
-  .c1kdz7t6 {
-    margin-bottom: 2rem
   }
   .c1bk6428 {
     padding: 0.5rem
@@ -1248,6 +1256,12 @@
   }
   .co7no61:focus-visible {
     background-color: rgba(0, 120, 216, 1)
+  }
+  .c17fuod0 {
+    align-content: space-between
+  }
+  .c1omme4v {
+    box-shadow: 0px 0px rgba(0, 0, 0, 0)
   }
 }
 @media all and (max-width: 991px) {

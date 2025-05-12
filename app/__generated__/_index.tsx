@@ -10,7 +10,7 @@ import { Slot as Slot, Image as Image, Fragment as Fragment_1, Box as Box, Headi
 
       export const projectId = "eb288b69-93b6-4f30-87d8-8fc4471bde1e";
 
-      export const lastPublished = "2025-05-10T15:01:55.272Z";
+      export const lastPublished = "2025-05-12T09:21:18.281Z";
 
       export const siteName = "たいくんの生活";
 
@@ -59,6 +59,7 @@ className={`w-body cyr5ovu`}>
 src={"/assets/alex-shuper-Or-ysyrPXnU-unsplash_Zhh1K6IHHwF1Yphg-ksNT.webp"}
 width={1920}
 height={1080}
+loading={"eager"}
 className={`w-image ckw650q cu39xf9 c1ysgjff cok98yc`} />
 <Box
 className={`w-box ckw650q cu39xf9 cok98yc c1epj6oz cgzp0rh`} />
@@ -75,6 +76,7 @@ className={`w-link ckw650q c30d1di`}>
 src={"/assets/taikun-life-full_MKZdOye23ZIRoP-vjc_g4.png"}
 width={1200}
 height={108}
+loading={"eager"}
 className={`w-image`} />
 </Link>
 <Box
@@ -118,12 +120,13 @@ className={`w-link c14njgcc c9ll3mf cxhsvi csiqldl cywehne c1w3kw24 ckfbvdv cnny
 <RemixForm
 className={`w-form c16u96pk ckfbvdv cnny46r c1x20bz7 c1kiu74r c88e3vu ctzx07w`}>
 <Input
-aria-label={"ブログを検索"}
+aria-label={"検索ボックス"}
 name={"search"}
 placeholder={"検索..."}
 type={"search"}
 className={`w-text-input c18xfrfr ccpbbov c4oa98r clun22x c14eq3al c104iyh7 c1iftn02 c17iwvim c16tp3ap ckfbvdv c1x20bz7 c9ll3mf c1dgsltx ctzx07w`} />
 <Button
+aria-label={"検索ボタン"}
 className={`w-button c1t8yh50 c18xfrfr ccpbbov c4oa98r clun22x coi25rp cnny46r c1kiu74r`}>
 <Box
 className={`w-box cpspxpc c1d3h5bc chpom5m c329hqk c1sy5cbg cxovp9q c2y4chl c1nljn1v`}>
@@ -179,7 +182,7 @@ language={"ja"}
 country={"JP"}
 dateStyle={"short"}
 timeStyle={"none"}
-datetime={collectionItem?.node?.date}
+dateTime={collectionItem?.node?.date}
 className={`w-time cb1oezn c1mjo49n cyr5ovu`} />
 </Box>
 <Box
@@ -191,7 +194,7 @@ code={"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><!--!Fo
 className={`w-html-embed`} />
 </Box>
 <Time
-datetime={collectionItem?.node?.modified}
+dateTime={collectionItem?.node?.modified}
 language={"ja"}
 country={"JP"}
 dateStyle={"short"}
@@ -207,7 +210,7 @@ className={`w-time cb1oezn c1mjo49n cyr5ovu`} />
 )}
 </Box>
 <Box
-className={`w-box c16u96pk c1demw6w cmqkj62 c16uhwia ct6b9qv cfprw0w`}>
+className={`w-box c16u96pk c1demw6w cmqkj62 c16uhwia ct6b9qv c1kdz7t6`}>
 {(_?.data?.data?.posts?.pageInfo?.hasPreviousPage) &&
 <Link
 aria-current={"false"}
@@ -215,7 +218,7 @@ aria-label={"最初に戻る"}
 href={""}
 className={`w-link c14njgcc`}>
 <Box
-className={`w-box c16u96pk c1nrl0mm cv98wn5 cj7fjzz c1yk9n7d c1fexnx0 cz9jktr cxvivdm cmqkj62 c1t8yh50 ckfbvdv cnny46r c1x20bz7 c1kiu74r cjvdby0 c11v1l1o c1sy5cbg ctibe6j cq98dcv c1nljn1v c1dfh75v`}>
+className={`w-box c16u96pk c1nrl0mm cv98wn5 cj7fjzz c1yk9n7d c1fexnx0 cz9jktr cxvivdm cmqkj62 ckfbvdv cnny46r c1x20bz7 c1kiu74r cjvdby0 c11v1l1o c1sy5cbg ctibe6j cq98dcv c1nljn1v c1t8yh50 c1dfh75v`}>
 <Box
 className={`w-box cpspxpc c1d3h5bc chpom5m c329hqk c1sy5cbg cxovp9q c2y4chl c1nljn1v`}>
 <HtmlEmbed
@@ -250,6 +253,85 @@ className={`w-html-embed c16u96pk cu39xf9 c2en5ep c1uczmal`} />
 </Box>
 </Link>
 }
+</Box>
+<Box
+data-ws-tag="footer"
+className={`w-box c1mo0hrg c9ztfc4 cvpjo14 c1ivbbvm c6cj56m ctiy6wq c1yz7033 c16u96pk cckrrlb c1nrl0mm ct6b9qv c1demw6w ci2ryas c1mp8u76 c1sy5cbg ctibe6j cq98dcv c1nljn1v ckw650q cfprw0w c17fuod0 c1bk6428 cx7dkne c1rhsvz0`}>
+<Link
+href={"https://status.taikun.blog/"}
+target={"_blank"}
+className={`w-link c14njgcc`}>
+<Box
+className={`w-box c16u96pk c1nrl0mm cv98wn5 cj7fjzz cjft9ro c10hsz cz9jktr ckhpsmk c1yh0sse ckfbvdv cnny46r c1x20bz7 c1kiu74r c1omme4v c11v1l1o c1sy5cbg ctibe6j cq98dcv c1nljn1v c1t8yh50 c1dfh75v`}>
+<Box
+className={`w-box cpspxpc c1d3h5bc c19dka4a chpom5m c329hqk c1sy5cbg cxovp9q c2y4chl c1nljn1v`}>
+<HtmlEmbed
+code={"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill=\"#ffffff\" d=\"M64 32C28.7 32 0 60.7 0 96l0 64c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-64c0-35.3-28.7-64-64-64L64 32zm280 72a24 24 0 1 1 0 48 24 24 0 1 1 0-48zm48 24a24 24 0 1 1 48 0 24 24 0 1 1 -48 0zM64 288c-35.3 0-64 28.7-64 64l0 64c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-64c0-35.3-28.7-64-64-64L64 288zm280 72a24 24 0 1 1 0 48 24 24 0 1 1 0-48zm56 24a24 24 0 1 1 48 0 24 24 0 1 1 -48 0z\"/></svg>"}
+className={`w-html-embed`} />
+</Box>
+<Text
+className={`w-text cpwwn14 cb1oezn`}>
+{"サーバーステータス"}
+</Text>
+</Box>
+</Link>
+<Box
+className={`w-box c16u96pk cxvivdm cmqkj62 ct6b9qv`}>
+<Link
+href={"https://x.com/taikun_life_com"}
+target={"_blank"}
+className={`w-link c14njgcc`}>
+<Box
+className={`w-box c16u96pk c1nrl0mm cv98wn5 cj7fjzz cjft9ro c10hsz cz9jktr ckhpsmk c1yh0sse ckfbvdv cnny46r c1x20bz7 c1kiu74r c1omme4v c11v1l1o c1sy5cbg ctibe6j cq98dcv c1nljn1v c1t8yh50 c1dfh75v`}>
+<Box
+className={`w-box cpspxpc cw8jop0 c1iiw5pw chpom5m c329hqk c1sy5cbg cxovp9q c2y4chl c1nljn1v`}>
+<HtmlEmbed
+code={"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill=\"#fff\" d=\"M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z\"/></svg>"}
+className={`w-html-embed`} />
+</Box>
+<Text
+className={`w-text cpwwn14 cb1oezn`}>
+{"たいくんの生活"}
+</Text>
+</Box>
+</Link>
+<Link
+href={"https://x.com/i_am_taikun"}
+target={"_blank"}
+className={`w-link c14njgcc`}>
+<Box
+className={`w-box c16u96pk c1nrl0mm cv98wn5 cj7fjzz cjft9ro c10hsz cz9jktr ckhpsmk c1yh0sse ckfbvdv cnny46r c1x20bz7 c1kiu74r c1omme4v c11v1l1o c1sy5cbg ctibe6j cq98dcv c1nljn1v c1t8yh50 c1dfh75v`}>
+<Box
+className={`w-box cpspxpc cw8jop0 c1iiw5pw chpom5m c329hqk c1sy5cbg cxovp9q c2y4chl c1nljn1v`}>
+<HtmlEmbed
+code={"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill=\"#fff\" d=\"M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z\"/></svg>"}
+className={`w-html-embed`} />
+</Box>
+<Text
+className={`w-text cpwwn14 cb1oezn`}>
+{"たいくん"}
+</Text>
+</Box>
+</Link>
+<Link
+href={"https://www.youtube.com/@i_am_taikun"}
+target={"_blank"}
+className={`w-link c14njgcc`}>
+<Box
+className={`w-box c16u96pk c1nrl0mm cv98wn5 cj7fjzz cjft9ro c10hsz cz9jktr ckhpsmk c1yh0sse ckfbvdv cnny46r c1x20bz7 c1kiu74r c1omme4v c11v1l1o c1sy5cbg ctibe6j cq98dcv c1nljn1v c1t8yh50 c1dfh75v`}>
+<Box
+className={`w-box cpspxpc c1d3h5bc c1iiw5pw chpom5m c329hqk c1sy5cbg cxovp9q c2y4chl c1nljn1v`}>
+<HtmlEmbed
+code={"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill=\"#fff\" d=\"M549.7 124.1c-6.3-23.7-24.8-42.3-48.3-48.6C458.8 64 288 64 288 64S117.2 64 74.6 75.5c-23.5 6.3-42 24.9-48.3 48.6-11.4 42.9-11.4 132.3-11.4 132.3s0 89.4 11.4 132.3c6.3 23.7 24.8 41.5 48.3 47.8C117.2 448 288 448 288 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zm-317.5 213.5V175.2l142.7 81.2-142.7 81.2z\"/></svg>"}
+className={`w-html-embed`} />
+</Box>
+<Text
+className={`w-text cpwwn14 cb1oezn`}>
+{"たいくん"}
+</Text>
+</Box>
+</Link>
+</Box>
 </Box>
 </Box>
 </Box>

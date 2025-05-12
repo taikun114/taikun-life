@@ -10,7 +10,7 @@ import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-r
 
       export const projectId = "eb288b69-93b6-4f30-87d8-8fc4471bde1e";
 
-      export const lastPublished = "2025-05-10T15:01:55.272Z";
+      export const lastPublished = "2025-05-12T09:21:18.281Z";
 
       export const siteName = "たいくんの生活";
 
@@ -37,6 +37,7 @@ className={`w-body`}>
 src={"/assets/alex-shuper-Or-ysyrPXnU-unsplash_Zhh1K6IHHwF1Yphg-ksNT.webp"}
 width={1920}
 height={1080}
+loading={"eager"}
 className={`w-image ckw650q cu39xf9 c1ysgjff cok98yc`} />
 <Box
 className={`w-box ckw650q cu39xf9 cok98yc c1epj6oz cgzp0rh`} />
