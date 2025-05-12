@@ -10,7 +10,7 @@ import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-r
 
       export const projectId = "eb288b69-93b6-4f30-87d8-8fc4471bde1e";
 
-      export const lastPublished = "2025-05-12T09:21:18.281Z";
+      export const lastPublished = "2025-05-12T11:33:16.283Z";
 
       export const siteName = "たいくんの生活";
 
@@ -54,6 +54,8 @@ className={`w-link ckw650q c30d1di`}>
 src={"/assets/taikun-life-full_MKZdOye23ZIRoP-vjc_g4.png"}
 width={1200}
 height={108}
+alt={"TAIKUN Life.com | たいくんの生活"}
+loading={"eager"}
 className={`w-image`} />
 </Link>
 <Box

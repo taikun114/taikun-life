@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "eb288b69-93b6-4f30-87d8-8fc4471bde1e";
 
-      export const lastPublished = "2025-05-12T09:21:18.281Z";
+      export const lastPublished = "2025-05-12T11:33:16.283Z";
 
       export const siteName = "たいくんの生活";
 
@@ -350,9 +350,7 @@ country={"JP"}
 dateStyle={"full"}
 timeStyle={"short"}
 dateTime={CMS?.data?.data?.post?.date}
-className={`w-time cb1oezn c1mjo49n`}>
-{""}
-</Time>
+className={`w-time cb1oezn c1mjo49n`} />
 </Box>
 <Box
 className={`w-box c16u96pk c1nrl0mm cv98wn5 cxvivdm cmqkj62 c1kyowkr c1hjchh6 cgt0251 cd4zzh3 cmz7znk c1bk6428`}>
