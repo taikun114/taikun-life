@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "b8b34729-575b-4ea9-b873-aa582b60f8a7",
+    "id": "9193bd03-1448-4958-9ed7-e348fb221f43",
     "projectId": "eb288b69-93b6-4f30-87d8-8fc4471bde1e",
-    "version": 433,
-    "createdAt": "2025-05-12T13:50:44.989+00:00",
-    "updatedAt": "2025-05-12T13:50:44.989+00:00",
+    "version": 434,
+    "createdAt": "2025-05-20T06:00:50.301+00:00",
+    "updatedAt": "2025-05-20T06:00:50.301+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの生活",
@@ -33348,6 +33348,16 @@
           "name": "loading",
           "type": "string",
           "value": "eager"
+        }
+      ],
+      [
+        "RMbEh22KFYZTF9-TlQ5f2",
+        {
+          "id": "RMbEh22KFYZTF9-TlQ5f2",
+          "instanceId": "zfiDIp1sO5LUljGbEZtT6",
+          "name": "aria-label",
+          "type": "string",
+          "value": "ナビゲーションメニュー"
         }
       ]
     ],

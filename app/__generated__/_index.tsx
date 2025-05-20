@@ -10,7 +10,7 @@ import { Slot as Slot, Image as Image, Fragment as Fragment_1, Box as Box, Headi
 
       export const projectId = "eb288b69-93b6-4f30-87d8-8fc4471bde1e";
 
-      export const lastPublished = "2025-05-12T13:50:44.989Z";
+      export const lastPublished = "2025-05-20T06:00:50.301Z";
 
       export const siteName = "たいくんの生活";
 
