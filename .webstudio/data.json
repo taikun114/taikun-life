@@ -1,16 +1,16 @@
 {
   "build": {
-    "id": "9193bd03-1448-4958-9ed7-e348fb221f43",
+    "id": "6aeb64d7-a3d1-4a23-b7c4-48c618f0e3f2",
     "projectId": "eb288b69-93b6-4f30-87d8-8fc4471bde1e",
-    "version": 434,
-    "createdAt": "2025-05-20T06:00:50.301+00:00",
-    "updatedAt": "2025-05-20T06:00:50.301+00:00",
+    "version": 438,
+    "createdAt": "2025-05-21T12:34:08.466+00:00",
+    "updatedAt": "2025-05-21T12:34:08.466+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの生活",
         "contactEmail": "contact.taikun@gmail.com",
         "faviconAssetId": "ff31de3b2c2c0cdd40fbd7f79d7c8a265d7a944bd885b74b0407af47c53a8b7e",
-        "code": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-W4MSD8641S\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-W4MSD8641S');\n</script>\n\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544\"\n     crossorigin=\"anonymous\"></script>\n\n<style>\n@import url('https://api.fonts.coollabs.io/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>"
+        "code": "<!-- CSS Settings -->\n<style>\n  @media (prefers-color-scheme: dark) {\n    img {\n      filter: brightness(90%);\n    }\n  }\n</style>\n\n<!-- Web Fonts -->\n<style>\n@import url('https://api.fonts.coollabs.io/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-W4MSD8641S\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-W4MSD8641S');\n</script>\n\n<!-- Google AdSense -->\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544\"\n     crossorigin=\"anonymous\"></script>"
       },
       "compiler": {
         "atomicStyles": true
