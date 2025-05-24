@@ -905,6 +905,12 @@
   .c4ryyyw :where(ul, ol) {
     color: light-dark(#000, #ddd)
   }
+  .c18dx29x :where(ul, ol) {
+    margin-left: 1rem
+  }
+  .cl42euj :where(ul, ol) {
+    padding-left: 0.5rem
+  }
   .cc5dwkw hr {
     border-top-width: 2px
   }

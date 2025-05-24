@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "65557ddc-1cb5-4b01-97f9-93461ecf6a30",
+    "id": "4b653cbb-5b0a-4873-8e7b-c17f4cf3fecb",
     "projectId": "eb288b69-93b6-4f30-87d8-8fc4471bde1e",
-    "version": 457,
-    "createdAt": "2025-05-24T10:15:04.351+00:00",
-    "updatedAt": "2025-05-24T10:15:04.351+00:00",
+    "version": 543,
+    "createdAt": "2025-05-24T12:05:02.508+00:00",
+    "updatedAt": "2025-05-24T12:05:02.508+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの生活",
@@ -165,8 +165,9 @@
           "name": "ページ",
           "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの生活\" || \"コンテンツが見つかりませんでした - たいくんの生活\"",
           "history": [
-            "/page/notice",
+            "/page/test",
             "/page/privacy-policy",
+            "/page/notice",
             "/page/privdacy-policy",
             "/page/contact",
             "/page/"
@@ -24824,18 +24825,6 @@
         }
       ],
       [
-        "bE5mw-RPeTY4bVXMYEunM:7hPMMapQ_YKRAmEWw_M-S:width:",
-        {
-          "styleSourceId": "bE5mw-RPeTY4bVXMYEunM",
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "property": "width",
-          "value": {
-            "type": "unparsed",
-            "value": "calc(100% + 5rem)"
-          }
-        }
-      ],
-      [
         "cXawjoUViavnetaARFJM2:7hPMMapQ_YKRAmEWw_M-S:backgroundColor:",
         {
           "styleSourceId": "cXawjoUViavnetaARFJM2",
@@ -27846,6 +27835,70 @@
             "value": "break-word"
           },
           "listed": true
+        }
+      ],
+      [
+        "bE5mw-RPeTY4bVXMYEunM:7hPMMapQ_YKRAmEWw_M-S:width:",
+        {
+          "styleSourceId": "bE5mw-RPeTY4bVXMYEunM",
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "property": "width",
+          "value": {
+            "type": "unparsed",
+            "value": "calc(100% + 5rem)"
+          }
+        }
+      ],
+      [
+        "14hAL0CBgRUv2ECG1SGwM:7hPMMapQ_YKRAmEWw_M-S:paddingLeft:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "14hAL0CBgRUv2ECG1SGwM",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 0.5
+          }
+        }
+      ],
+      [
+        "14hAL0CBgRUv2ECG1SGwM:7hPMMapQ_YKRAmEWw_M-S:marginLeft:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "14hAL0CBgRUv2ECG1SGwM",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "aoQyqhf5KY4caztC8PV8c:7hPMMapQ_YKRAmEWw_M-S:marginLeft:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "aoQyqhf5KY4caztC8PV8c",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "aoQyqhf5KY4caztC8PV8c:7hPMMapQ_YKRAmEWw_M-S:paddingLeft:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "aoQyqhf5KY4caztC8PV8c",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 0.5
+          }
         }
       ]
     ],
@@ -38033,8 +38086,9 @@
       "name": "ページ",
       "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの生活\" || \"コンテンツが見つかりませんでした - たいくんの生活\"",
       "history": [
-        "/page/notice",
+        "/page/test",
         "/page/privacy-policy",
+        "/page/notice",
         "/page/privdacy-policy",
         "/page/contact",
         "/page/"
