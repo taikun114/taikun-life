@@ -10,7 +10,7 @@ import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-r
 
       export const projectId = "eb288b69-93b6-4f30-87d8-8fc4471bde1e";
 
-      export const lastPublished = "2025-05-21T12:34:08.466Z";
+      export const lastPublished = "2025-05-24T10:15:04.351Z";
 
       export const siteName = "たいくんの生活";
 

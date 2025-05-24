@@ -782,8 +782,8 @@
   .cuwxygi img {
     max-height: 640px
   }
-  .c1dha9f5 img {
-    margin-top: 1.5rem
+  .c1gtzgee img {
+    margin-top: 0.5rem
   }
   .c1wfa127 img {
     margin-left: -3.5rem
@@ -806,14 +806,14 @@
   .c1c9mv0h img {
     height: auto
   }
-  .c9ws1rr img {
-    display: block
+  .c1ai4xlk img {
+    display: inline
   }
   .c13yp1t5 img {
     background-color: light-dark(#00000012, #ffffff12)
   }
-  .ce221rl img {
-    margin-bottom: 0
+  .c9bfe2d img {
+    margin-bottom: -1rem
   }
   .c13nkmlq blockquote {
     background-color: light-dark(#00000012, #ffffff12)
@@ -1249,6 +1249,9 @@
   .co7no61:focus-visible {
     background-color: rgba(0, 120, 216, 1)
   }
+  .c1i5tawd {
+    overflow-wrap: break-word
+  }
   .c17fuod0 {
     align-content: space-between
   }
@@ -1356,5 +1359,8 @@
   }
   .cfl86vg {
     padding-right: 8px
+  }
+  .c1a7rnmy {
+    overflow-wrap: break-word
   }
 }

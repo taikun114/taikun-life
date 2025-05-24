@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "6aeb64d7-a3d1-4a23-b7c4-48c618f0e3f2",
+    "id": "65557ddc-1cb5-4b01-97f9-93461ecf6a30",
     "projectId": "eb288b69-93b6-4f30-87d8-8fc4471bde1e",
-    "version": 438,
-    "createdAt": "2025-05-21T12:34:08.466+00:00",
-    "updatedAt": "2025-05-21T12:34:08.466+00:00",
+    "version": 457,
+    "createdAt": "2025-05-24T10:15:04.351+00:00",
+    "updatedAt": "2025-05-24T10:15:04.351+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの生活",
@@ -16,6 +16,11 @@
         "atomicStyles": true
       },
       "redirects": [
+        {
+          "old": "/p/blog-page_10.html",
+          "new": "https://old.taikun-life.com/p/blog-page_10.html",
+          "status": "301"
+        },
         {
           "old": "/p/blog-page_6.html",
           "new": "/page/contact",
@@ -109,6 +114,7 @@
           "name": "ブログ",
           "title": "$ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title && $ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title + \" - たいくんの生活\" || \"コンテンツが見つかりませんでした - たいくんの生活\"",
           "history": [
+            "/blog/mac-home-assistant-server",
             "/blog/how-to-make-switchbot-products-compatible-with-homekit",
             "/blog/test",
             "/blog/nreal-air-using-with-mac",
@@ -127,8 +133,7 @@
             "/blog/how-to-use-dolby-surround-decorder-on-mac",
             "/blog/mac-software-eqmac",
             "/blog/%E3%80%90oclp-sequoia%E3%80%91%E4%B8%8D%E5%85%B7%E5%90%88%E6%83%85%E5%A0%B1%E3%81%A8%E3%81%9D%E3%81%AE%E5%AF%BE%E7%AD%96%E3%80%90%E4%B8%8D%E5%85%B7%E5%90%88%E3%81%BE%E3%81%A8%E3%82%81%E3%80%91",
-            "/blog/testing",
-            "/blog/%E3%80%90%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%80%91macos-ventura-%E3%81%AB%E9%9D%9E%E5%AF%BE%E5%BF%9C%E3%81%AE%E5%8F%A4%E3%81%84-mac-%E3%81%AB-ventura-%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9"
+            "/blog/testing"
           ],
           "rootInstanceId": "JZ04szZjgAyGWWlJfj_B-",
           "meta": {
@@ -160,9 +165,9 @@
           "name": "ページ",
           "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの生活\" || \"コンテンツが見つかりませんでした - たいくんの生活\"",
           "history": [
+            "/page/notice",
             "/page/privacy-policy",
             "/page/privdacy-policy",
-            "/page/notice",
             "/page/contact",
             "/page/"
           ],
@@ -7141,7 +7146,7 @@
           "value": {
             "type": "unit",
             "unit": "rem",
-            "value": 1.5
+            "value": 0.5
           }
         }
       ],
@@ -7381,7 +7386,7 @@
           "property": "display",
           "value": {
             "type": "keyword",
-            "value": "block"
+            "value": "inline"
           }
         }
       ],
@@ -9938,8 +9943,8 @@
           "property": "marginBottom",
           "value": {
             "type": "unit",
-            "unit": "number",
-            "value": 0
+            "unit": "rem",
+            "value": -1
           }
         }
       ],
@@ -24199,13 +24204,13 @@
       [
         "QRK8o5OP3DiUVR1RxPvWI:7hPMMapQ_YKRAmEWw_M-S:marginTop:",
         {
-          "styleSourceId": "QRK8o5OP3DiUVR1RxPvWI",
           "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "QRK8o5OP3DiUVR1RxPvWI",
           "property": "marginTop",
           "value": {
             "type": "unit",
             "unit": "rem",
-            "value": 1.5
+            "value": 0.5
           }
         }
       ],
@@ -24440,12 +24445,12 @@
       [
         "QRK8o5OP3DiUVR1RxPvWI:7hPMMapQ_YKRAmEWw_M-S:display:",
         {
-          "styleSourceId": "QRK8o5OP3DiUVR1RxPvWI",
           "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "QRK8o5OP3DiUVR1RxPvWI",
           "property": "display",
           "value": {
             "type": "keyword",
-            "value": "block"
+            "value": "inline"
           }
         }
       ],
@@ -25054,13 +25059,13 @@
       [
         "QRK8o5OP3DiUVR1RxPvWI:7hPMMapQ_YKRAmEWw_M-S:marginBottom:",
         {
-          "styleSourceId": "QRK8o5OP3DiUVR1RxPvWI",
           "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "QRK8o5OP3DiUVR1RxPvWI",
           "property": "marginBottom",
           "value": {
             "type": "unit",
-            "unit": "number",
-            "value": 0
+            "unit": "rem",
+            "value": -1
           }
         }
       ],
@@ -27815,6 +27820,32 @@
               }
             ]
           }
+        }
+      ],
+      [
+        "sFStCDeADbF9_jsMm9yDy:sURTnOO_xRAsuAvyLcB6L:overflowWrap:",
+        {
+          "breakpointId": "sURTnOO_xRAsuAvyLcB6L",
+          "styleSourceId": "sFStCDeADbF9_jsMm9yDy",
+          "property": "overflowWrap",
+          "value": {
+            "type": "keyword",
+            "value": "break-word"
+          },
+          "listed": true
+        }
+      ],
+      [
+        "L37KJO6If7DhGrRXk8wKh:7hPMMapQ_YKRAmEWw_M-S:overflowWrap:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "L37KJO6If7DhGrRXk8wKh",
+          "property": "overflowWrap",
+          "value": {
+            "type": "keyword",
+            "value": "break-word"
+          },
+          "listed": true
         }
       ]
     ],
@@ -37951,6 +37982,7 @@
       "name": "ブログ",
       "title": "$ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title && $ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title + \" - たいくんの生活\" || \"コンテンツが見つかりませんでした - たいくんの生活\"",
       "history": [
+        "/blog/mac-home-assistant-server",
         "/blog/how-to-make-switchbot-products-compatible-with-homekit",
         "/blog/test",
         "/blog/nreal-air-using-with-mac",
@@ -37969,8 +38001,7 @@
         "/blog/how-to-use-dolby-surround-decorder-on-mac",
         "/blog/mac-software-eqmac",
         "/blog/%E3%80%90oclp-sequoia%E3%80%91%E4%B8%8D%E5%85%B7%E5%90%88%E6%83%85%E5%A0%B1%E3%81%A8%E3%81%9D%E3%81%AE%E5%AF%BE%E7%AD%96%E3%80%90%E4%B8%8D%E5%85%B7%E5%90%88%E3%81%BE%E3%81%A8%E3%82%81%E3%80%91",
-        "/blog/testing",
-        "/blog/%E3%80%90%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%80%91macos-ventura-%E3%81%AB%E9%9D%9E%E5%AF%BE%E5%BF%9C%E3%81%AE%E5%8F%A4%E3%81%84-mac-%E3%81%AB-ventura-%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9"
+        "/blog/testing"
       ],
       "rootInstanceId": "JZ04szZjgAyGWWlJfj_B-",
       "meta": {
@@ -38002,9 +38033,9 @@
       "name": "ページ",
       "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの生活\" || \"コンテンツが見つかりませんでした - たいくんの生活\"",
       "history": [
+        "/page/notice",
         "/page/privacy-policy",
         "/page/privdacy-policy",
-        "/page/notice",
         "/page/contact",
         "/page/"
       ],

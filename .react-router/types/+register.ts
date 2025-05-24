@@ -23,6 +23,7 @@ type Params = {
   "/2022/11/apple-tv-4k-2022-review.html": {};
   "/2022/12/using-lg-tv-with-voice.html": {};
   "/2022/06/nreal-air-review.html": {};
+  "/p/blog-page_10.html": {};
   "/p/blog-page_6.html": {};
   "/p/blog-page_7.html": {};
   "/p/blog-page.html": {};
