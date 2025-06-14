@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "4b653cbb-5b0a-4873-8e7b-c17f4cf3fecb",
+    "id": "dec6ed90-64d3-418d-8d78-64325e3cdfe2",
     "projectId": "eb288b69-93b6-4f30-87d8-8fc4471bde1e",
-    "version": 543,
-    "createdAt": "2025-05-24T12:05:02.508+00:00",
-    "updatedAt": "2025-05-24T12:05:02.508+00:00",
+    "version": 552,
+    "createdAt": "2025-06-14T13:58:33.667+00:00",
+    "updatedAt": "2025-06-14T13:58:33.667+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの生活",
@@ -114,6 +114,7 @@
           "name": "ブログ",
           "title": "$ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title && $ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title + \" - たいくんの生活\" || \"コンテンツが見つかりませんでした - たいくんの生活\"",
           "history": [
+            "/blog/saving-home-assistant-history-to-victoriametrics",
             "/blog/mac-home-assistant-server",
             "/blog/how-to-make-switchbot-products-compatible-with-homekit",
             "/blog/test",
@@ -132,8 +133,7 @@
             "/blog/how-to-download-macos-installer",
             "/blog/how-to-use-dolby-surround-decorder-on-mac",
             "/blog/mac-software-eqmac",
-            "/blog/%E3%80%90oclp-sequoia%E3%80%91%E4%B8%8D%E5%85%B7%E5%90%88%E6%83%85%E5%A0%B1%E3%81%A8%E3%81%9D%E3%81%AE%E5%AF%BE%E7%AD%96%E3%80%90%E4%B8%8D%E5%85%B7%E5%90%88%E3%81%BE%E3%81%A8%E3%82%81%E3%80%91",
-            "/blog/testing"
+            "/blog/%E3%80%90oclp-sequoia%E3%80%91%E4%B8%8D%E5%85%B7%E5%90%88%E6%83%85%E5%A0%B1%E3%81%A8%E3%81%9D%E3%81%AE%E5%AF%BE%E7%AD%96%E3%80%90%E4%B8%8D%E5%85%B7%E5%90%88%E3%81%BE%E3%81%A8%E3%82%81%E3%80%91"
           ],
           "rootInstanceId": "JZ04szZjgAyGWWlJfj_B-",
           "meta": {
@@ -165,9 +165,9 @@
           "name": "ページ",
           "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの生活\" || \"コンテンツが見つかりませんでした - たいくんの生活\"",
           "history": [
-            "/page/test",
-            "/page/privacy-policy",
             "/page/notice",
+            "/page/privacy-policy",
+            "/page/test",
             "/page/privdacy-policy",
             "/page/contact",
             "/page/"
@@ -6649,7 +6649,7 @@
             "value": [
               {
                 "type": "unparsed",
-                "value": "linear-gradient(90deg,#87d700,#007d48)"
+                "value": "linear-gradient(90deg,#70C300,#009448)"
               }
             ]
           }
@@ -23705,15 +23705,15 @@
       [
         "rAvMN1t5A32v8ERUtocfT:7hPMMapQ_YKRAmEWw_M-S:backgroundImage:",
         {
-          "styleSourceId": "rAvMN1t5A32v8ERUtocfT",
           "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "rAvMN1t5A32v8ERUtocfT",
           "property": "backgroundImage",
           "value": {
             "type": "layers",
             "value": [
               {
                 "type": "unparsed",
-                "value": "linear-gradient(90deg,#87d700,#007d48)"
+                "value": "linear-gradient(90deg,#70C300,#009448)"
               }
             ]
           }
@@ -38035,6 +38035,7 @@
       "name": "ブログ",
       "title": "$ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title && $ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title + \" - たいくんの生活\" || \"コンテンツが見つかりませんでした - たいくんの生活\"",
       "history": [
+        "/blog/saving-home-assistant-history-to-victoriametrics",
         "/blog/mac-home-assistant-server",
         "/blog/how-to-make-switchbot-products-compatible-with-homekit",
         "/blog/test",
@@ -38053,8 +38054,7 @@
         "/blog/how-to-download-macos-installer",
         "/blog/how-to-use-dolby-surround-decorder-on-mac",
         "/blog/mac-software-eqmac",
-        "/blog/%E3%80%90oclp-sequoia%E3%80%91%E4%B8%8D%E5%85%B7%E5%90%88%E6%83%85%E5%A0%B1%E3%81%A8%E3%81%9D%E3%81%AE%E5%AF%BE%E7%AD%96%E3%80%90%E4%B8%8D%E5%85%B7%E5%90%88%E3%81%BE%E3%81%A8%E3%82%81%E3%80%91",
-        "/blog/testing"
+        "/blog/%E3%80%90oclp-sequoia%E3%80%91%E4%B8%8D%E5%85%B7%E5%90%88%E6%83%85%E5%A0%B1%E3%81%A8%E3%81%9D%E3%81%AE%E5%AF%BE%E7%AD%96%E3%80%90%E4%B8%8D%E5%85%B7%E5%90%88%E3%81%BE%E3%81%A8%E3%82%81%E3%80%91"
       ],
       "rootInstanceId": "JZ04szZjgAyGWWlJfj_B-",
       "meta": {
@@ -38086,9 +38086,9 @@
       "name": "ページ",
       "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの生活\" || \"コンテンツが見つかりませんでした - たいくんの生活\"",
       "history": [
-        "/page/test",
-        "/page/privacy-policy",
         "/page/notice",
+        "/page/privacy-policy",
+        "/page/test",
         "/page/privdacy-policy",
         "/page/contact",
         "/page/"
