@@ -10,7 +10,7 @@ import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-r
 
       export const projectId = "eb288b69-93b6-4f30-87d8-8fc4471bde1e";
 
-      export const lastPublished = "2025-06-14T13:58:33.667Z";
+      export const lastPublished = "2025-06-16T08:57:20.332Z";
 
       export const siteName = "たいくんの生活";
 
@@ -34,9 +34,9 @@ className={`w-body`}>
 <Slot>
 <Fragment_1>
 <Image
-src={"/assets/alex-shuper-Or-ysyrPXnU-unsplash_Zhh1K6IHHwF1Yphg-ksNT.webp"}
-width={1920}
-height={1080}
+src={"/assets/alex-shuper-Or-ysyrPXnU-unsplash_wcCUhD_73LbHMVhEAFco_.webp"}
+width={1280}
+height={720}
 loading={"eager"}
 className={`w-image ckw650q cu39xf9 c1ysgjff cok98yc`} />
 <Box

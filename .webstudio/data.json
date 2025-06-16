@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "dec6ed90-64d3-418d-8d78-64325e3cdfe2",
+    "id": "d07f36e9-a31a-4380-8ea2-5a63abbb3259",
     "projectId": "eb288b69-93b6-4f30-87d8-8fc4471bde1e",
-    "version": 552,
-    "createdAt": "2025-06-14T13:58:33.667+00:00",
-    "updatedAt": "2025-06-14T13:58:33.667+00:00",
+    "version": 557,
+    "createdAt": "2025-06-16T08:57:20.332+00:00",
+    "updatedAt": "2025-06-16T08:57:20.332+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの生活",
@@ -31341,7 +31341,7 @@
           "instanceId": "EHZ303lRkhLGZupZvCf4P",
           "name": "src",
           "type": "asset",
-          "value": "1ce3bebac71368895bf54273a320b54adbcb86e24cf87dba4d903f85e138b00d"
+          "value": "402781190984d678cd4c43bc0df6d01247f1841185262f9183d1057149b33b0c"
         }
       ],
       [
@@ -31351,7 +31351,7 @@
           "instanceId": "EHZ303lRkhLGZupZvCf4P",
           "name": "width",
           "type": "asset",
-          "value": "1ce3bebac71368895bf54273a320b54adbcb86e24cf87dba4d903f85e138b00d"
+          "value": "402781190984d678cd4c43bc0df6d01247f1841185262f9183d1057149b33b0c"
         }
       ],
       [
@@ -31361,7 +31361,7 @@
           "instanceId": "EHZ303lRkhLGZupZvCf4P",
           "name": "height",
           "type": "asset",
-          "value": "1ce3bebac71368895bf54273a320b54adbcb86e24cf87dba4d903f85e138b00d"
+          "value": "402781190984d678cd4c43bc0df6d01247f1841185262f9183d1057149b33b0c"
         }
       ],
       [
@@ -33442,6 +33442,16 @@
           "name": "aria-label",
           "type": "string",
           "value": "ナビゲーションメニュー"
+        }
+      ],
+      [
+        "sTsighuSxwWlMJhndFFaS",
+        {
+          "id": "sTsighuSxwWlMJhndFFaS",
+          "instanceId": "Nx8KasWf30Y_SSJZK6V7W",
+          "name": "title",
+          "type": "expression",
+          "value": "$ws$dataSource$MVynO8S0IjQpl3yMmiCEO.node.title"
         }
       ]
     ],
@@ -38184,17 +38194,17 @@
       }
     },
     {
-      "id": "1ce3bebac71368895bf54273a320b54adbcb86e24cf87dba4d903f85e138b00d",
-      "name": "alex-shuper-Or-ysyrPXnU-unsplash_Zhh1K6IHHwF1Yphg-ksNT.webp",
+      "id": "402781190984d678cd4c43bc0df6d01247f1841185262f9183d1057149b33b0c",
+      "name": "alex-shuper-Or-ysyrPXnU-unsplash_wcCUhD_73LbHMVhEAFco_.webp",
       "description": null,
       "projectId": "eb288b69-93b6-4f30-87d8-8fc4471bde1e",
-      "size": 82514,
+      "size": 43448,
       "type": "image",
       "format": "webp",
-      "createdAt": "2025-05-06T13:59:28.695+00:00",
+      "createdAt": "2025-06-16T08:55:13.655+00:00",
       "meta": {
-        "width": 1920,
-        "height": 1080
+        "width": 1280,
+        "height": 720
       }
     },
     {
