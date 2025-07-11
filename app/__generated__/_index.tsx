@@ -10,14 +10,14 @@ import { Slot as Slot, Image as Image, Fragment as Fragment_1, Box as Box, Headi
 
       export const projectId = "eb288b69-93b6-4f30-87d8-8fc4471bde1e";
 
-      export const lastPublished = "2025-06-16T08:57:20.332Z";
+      export const lastPublished = "2025-07-11T08:39:25.254Z";
 
       export const siteName = "たいくんの生活";
 
       export const breakpoints = [{"id":"7hPMMapQ_YKRAmEWw_M-S"},{"id":"oIVfj9CW1VSGQ1nzAMQhV","maxWidth":991},{"id":"b-tdPHJg4N8hzh8wxGSqL","maxWidth":767},{"id":"sURTnOO_xRAsuAvyLcB6L","maxWidth":479}];
 
       export const favIconAsset: string | undefined =
-        "favicon_w08zms8XUlOgWeHurl8y9.png";
+        "favicon__Sy5mHh8cwqCcV9xmz_oq.png";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
@@ -78,6 +78,7 @@ width={1200}
 height={108}
 loading={"eager"}
 alt={"TAIKUN Life.com | たいくんの生活"}
+fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Box
